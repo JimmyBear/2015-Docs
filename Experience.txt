@@ -1,0 +1,12 @@
+December 2011 ¡V May 2015
+1. Network engine development with c++
+  - connection management
+  - implement the reliable/unreliable transmission protocol 
+  - implement  flow control and congestion control refer to UDP-based Data Transfer Protocol (UDT)
+  - provide network applications with setting customized protocols for getting high performance with different network environments
+2. GUI programming with MFC and QT
+3. Game system development using ActionScript3, MFC and QT
+  - Handling the communication between game lobby and game clients
+  - Handling the cash flow between game system and web servers
+  - Handling the socket requests between clients and servers
+  - Flash game development
